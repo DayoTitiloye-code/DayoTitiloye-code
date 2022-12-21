@@ -29,7 +29,7 @@ Completing University gave me the inspiration I need in becoming a developer and
 
 <p align="left"> <a href="https://www.github.com/DayoTitiloye-code" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dayo-titiloye/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/DayoTitiloye-code"><img src="https://github-readme-stats.vercel.app/api?username=DayoTitiloye-code&show_icons=true&hide=prs,issues,contribs&title_color=000000&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="DayoTitiloye-code's GitHub stats" /></a>
 

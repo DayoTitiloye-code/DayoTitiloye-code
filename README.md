@@ -1,14 +1,14 @@
 Hi 👋 My name is Dayo Titiloye
 ==============================
 
-Computer Science Graduate
+Software Engineer
 -------------------------
 
-Completing University gave me the inspiration I need in becoming a developer and learning more about my chosen field. Through coursework and assignments I gained technical skills and the creation of projects I work on have strengthen these skills even more.
+I'm a software engineer focused on building scalable, reliable, and maintainable systems. I currently specialize in backend development and enjoy designing clean, efficient APIs and services. I work within Agile teams to continuously deliver high-quality, well-tested code.
 
 * 🌍  I'm based in Greater London, U.K.
 * ✉️  You can contact me at [DayoTitiloye2@outlook.com](mailto:DayoTitiloye2@outlook.com)
-* 🧠  I'm learning Python, Terraform, React, Bootstrap, and Nodejs.
+* 🧠  I'm learning Python, Terraform, React, AWS.
 
 ### Skills
 
